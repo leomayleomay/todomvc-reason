@@ -30,3 +30,8 @@
 /node_modules
 yarn-debug.log*
 .yarn-integrity
+
+# Ignore bucklescript generated files.
+.merlin
+.bsb.lock
+/lib/bs
