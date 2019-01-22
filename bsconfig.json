@@ -10,6 +10,7 @@
   "namespace": true,
   "bs-dependencies": [
     "reason-react",
+    "remotedata-re",
     "bs-fetch",
     "@glennsl/bs-json"
   ],
