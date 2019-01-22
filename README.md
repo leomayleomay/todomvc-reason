@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Steps to get this app up & running:
 
-Things you may want to cover:
+* bundle
 
-* Ruby version
+* yarn
 
-* System dependencies
+* bin/rake db:setup
 
-* Configuration
+* rails s -p 3001
 
-* Database creation
+* yarn start
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* bin/webpack -w
